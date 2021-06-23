@@ -256,3 +256,5 @@
 
 # echo $ID
 ########
+
+# List all ports in use: sudo lsof -i -n -P | grep TCP
